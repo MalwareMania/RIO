@@ -15,3 +15,5 @@ Easy to extend with ESP, menus, etc.
 Set the dll to release x64, build it and inject it with your prefered injector.
 
 Press Insert to toggle the overlay.
+
+Note: **This does not use kiero.**
